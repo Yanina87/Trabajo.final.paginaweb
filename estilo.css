@@ -16,8 +16,13 @@ body {
 #divpie¨{
   color: black;
   background-color: green;
+  font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
 }
-    /*--------------------------------------------------------------
+  #divcabecera¨{
+    color: black;
+    background-color: white;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+  /*--------------------------------------------------------------
 # Perzonalizando nuestro ID de HTML
 --------------------------------------------------------------*/
 
